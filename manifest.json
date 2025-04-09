@@ -1,0 +1,9 @@
+{
+    "id": "hide-prefix",
+    "name": "Hide Prefix",
+    "version": "1.0.0",
+    "minAppVersion": "1.0.0",
+    "description": "Hides a folder prefix set by delimiter.",
+    "author": "Vojtik",
+    "isDesktopOnly": false
+}
